@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there , I'm **Rajvi Desai** 👋
 
-<img src="https://media0.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=ecf05e47epv2jr2s2ww3q3rigxb7jkudv6tj1ghc7fauvdyi&rid=giphy.gif&ct=g"  style="width: 100px; height:100px; ">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  style="width: 100px; height:100px; ">
+
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
