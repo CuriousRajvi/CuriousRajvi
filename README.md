@@ -1,7 +1,12 @@
 ### Hi there , I'm **Rajvi Desai** 👋
-
+<div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  style="width: 100px; height:100px; ">
+</div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rajvidesai12/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/CuriousRajvi">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
