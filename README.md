@@ -7,4 +7,6 @@
 <h2> Social Handles </h2><br/>
   <a href="https://www.linkedin.com/in/rajvidesai12/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <br/>
   <a href="https://twitter.com/CuriousRajvi">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  
+  
 </div>
