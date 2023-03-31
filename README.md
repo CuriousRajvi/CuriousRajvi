@@ -1,6 +1,6 @@
 <h1> Hi there , I'm <b>Rajvi Desai</b> 👋</h1>
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  style="width: 250px; height:250px; ">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  style="width: 250px; height:250px; " align="left">
 </div>
 
 <div id="badges">
