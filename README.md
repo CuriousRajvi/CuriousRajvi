@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  style="width: 250px; height:250px; " align="left">
 </div>
-
+<br/>
 <div id="badges">
 <h2> Social Handles </h2><br/>
   <a href="https://www.linkedin.com/in/rajvidesai12/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <br/>
