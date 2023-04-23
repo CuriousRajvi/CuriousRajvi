@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **finding internship in the domain of data science , software development or android application development**
 
-- 💬 Ask me about **programming languages, computer science, music and spirituality (not an expert though) ;) **
+- 💬 Ask me about **programming languages, computer science, music and spirituality (not an expert though)  **
 
 - ⚡ Fun fact **I think I am sane**
 <br/>
