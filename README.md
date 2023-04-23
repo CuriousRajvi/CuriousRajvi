@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I think I am sane**
 <br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/curiousrajvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="curiousrajvi" height="30" width="40" /></a>
